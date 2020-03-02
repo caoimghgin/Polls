@@ -137,3 +137,156 @@ FUN FACT: Today is NATIONAL UMBRELLA DAY. The basic umbrella was invented over f
 /polly “What is your opinion on Valentines day?” “Best holiday ever!” “Pretty good” “I could take or leave it” “Not so good” “Can we cancel this thing already?”
 
 FUN FACT: Today is VALENTINES DAY! Pope Gelasius declared February 14th as Saint Valentine’s Day around the year 496 to separate the church from the Roman celebration of Lupercalia, an ancient pagan fertility festival which occurred on February 15th
+
+---
+
+/polly "What is your opinion on 'Yak shaving'?" "Very positive" "Mostly positive" "Mostly negative" "Very negative" "Thats animal cruelty!"
+
+FUN FACT: The term 'Yak shaving' was coined by Carlin J. Vieri, a Ph.D. at MIT back in the 90s. It describes performing many small tasks that are related to your primary goal but, to anyone else, bears no obvious relationship to the primary goal.
+
+---
+
+/polly "What do you want to be when you grow up?" "Firefighter" "Ninja" "FBI Special Agent" "Cowboy" "Spy" "Stuntman" "Astronaut"
+
+FUN FACT: Today is INTERNATIONAL NINJA DAY. This day recognizes the fascination associated with the history and pop culture of ninjas. The skills of a ninja were passed down from generation to generation.
+
+---
+
+/polly "Which audio device do you most prefer?" "Headphones" "Earbuds" "Neither" "I like both" 
+
+---
+
+/polly "When will finish Christmas shopping?" "I was done weeks/months ago" "I finished this week" "I'll finish next week" "Maybe 2 weeks from now" "Probably the day before Christmas"
+
+FUN FACT: According to a study done by CompareCards, men are three times likelier than women to have finished their holiday shopping prior to Labor Day.
+
+---
+
+/polly "What kind of Christmas tree do put up during the holidays?" "Fresh cut (Pine, Fir, Spruce etc...)" "Artificial" "Bah-humbug!"
+
+FUN FACT: Tradition dictates that Christmas trees should be put up at the beginning of Advent – the fourth Sunday before Christmas. Others opt to put their decorations up 12 days before Christmas, or even on Christmas Eve.
+
+---
+
+/polly "What is your go-to soft drink?" "Coca-Cola" "Dr Pepper" "Sprite" "A&W Root Beer" "Pepsi" "Mountain Dew" "7up" 
+
+---
+
+/polly "If you could have a readable chip in your hand which would hold all information about you (drivers license, passport, medical records, credit cards) which could be read securely by anyone you give that information to, would you have the surgery to implant it?" "Absolutely!" "Pretty sure" "Maybe yes, maybe no" "Probably not" "Definitely no!"
+
+---
+
+/polly "Which is your favorite style of art?" "Realism" "Painterly" "Impressionism" "Expressionism" "Abstract" "Photorealism"
+
+---
+
+/polly "What is your go-to breakfast?" "Cereal" "Huevo rancheros" "Donuts" "Bagel" "Pancakes" "Eggs Benedict" "Waffels" "I don't eat breakfast" 
+
+---
+
+/polly "Which hat best fits your personality?" "Baseball hat" "Cowboy hat" "Fedora" "Beret" "Sombrero" "Bowler" "Stove pipe" "Beanie" "Boater" "Chupalla"
+
+---
+
+/polly "Which winter activities do you enjoy?" "Ice skating" "Skiing/Snowboarding" "Hiking" "Sledding" "Build a snowman" "Snowball fight" "Stick tongue on metal post" "Cozy up to a fire" "Curl up with a good book" "Hot chocolate w/marshmallows"
+
+---
+
+/polly "How's your vision?" "I wear glasses sometimes" "I wear glasses all the time" "I wear contacts" "Perfect 20/20"
+
+---
+
+/polly "If could take a pill which stops all disease and aging, would you?" "Absolutely!" "Maybe"  "No way!"
+
+---
+
+/polly "What is your favorite Dr. Suess book?" "The Cat in the Hat" "Green Eggs and Ham" "One Fish, Two Fish, Red Fish Blue Fish" "Horton Hears a Who" "How the Grinch Stole Christmas" "The Lorax"
+
+FUN FACT: Today is NATIONAL READ ACROSS AMERICA DAY (DR. SEUSS DAY). Each year, National Read Across America Day is celebrated on March 2nd, the birthday of Dr. Seuss.
+
+---
+
+/polly "Do you like to take naps?" "Yes, naps are my favorite!" "I'll nap sometimes" "I take naps very rarely" "I can't nap at all"
+
+FUN FACT: It's NATIONAL NAPPING DAY. Mid-afternoon naps are an integral part of most cultures, and scientifically proven to be good for you.
+
+---
+
+/polly "You've just ordered the best pizza in the world. What toppings do you choose?" "Pepperoni" "Mushrooms" "Onions" "Sausage" "Bacon" "Extra cheese" "Black olives" "Green peppers" "Anchovies"
+
+---
+
+/polly "Pick your top 3 funniest actors" "Jim Carrey" "Robin Williams" "Adam Sandler" "Ben Stiller" "Jack Black" "Mike Myers" "Steve Martin"
+
+FUN FACT: Today is NATIONAL LET’S LAUGH DAY. Some studies have shown that laughter may boost your immune system, relieve tension and help you relax. 
+
+---
+
+"What activities do you enjoy when the weather warms up?" "Plant something green" "See the cherry blossoms" "Picnic" "Play softball" "Ride a bike"
+
+---
+
+/polly "What activities do you enjoy when the weather warms up?" "Hiking" "Biking" "Stargazing" "Birdwatching" "Butterfly catching" "Boating" "Frisbee" "Gardening"
+
+FUN FACT: Today is SPRING BEGINS. The amount of sunshine will be approximately 12 hours long and will increase slowly until the first day of Summer. The vernal equinox marks the moment the Sun crosses the celestial equator. This is the imaginary line in the sky above the Earth’s equator, from south to north.
+
+---
+
+/polly "A friend bets $20 they can beat you in any game in the bar. Which do you choose?" "Billiards" "Darts" "Giant Jenga" "Shuffleboard" "Cornhole" "Hook/ring toss"
+
+---
+
+/polly "What is your favorite kind of dog?" "Labrador" "German Shepherd" "Golden Retriever" "Beagle" "Poodle" "Chihuahua" "Sorry, I'm allergic to cute things!"
+
+FUN FACT: Today is NATIONAL PUPPY DAY! National Puppy Day was founded in 2006 by Pet Lifestyle Expert, Animal Behaviorist and Author, Colleen Paige.  Paige is also the founder of National Dog Day and National Cat Day.
+
+---
+
+/polly "Choose your top 3 favorite MCU movies" "Black Panther (2018)" "Guardians of the Galaxy (2014)" "Iron Man (2008)" "Thor: Ragnarok (2017)" "Captain America: Civil War (2016)" "The Avengers (2012)" "Spider-Man: Homecoming (2017)" "Captain Marvel (2019)"
+
+FUN FACT: Avengers: Endgame — the final chapter in The Infinity Saga films — is debuting at theaters only 1 month from today.
+
+---
+
+/polly "What are your favorite 'The B-52s' songs?" "Private Idaho" "Love Shack" "Roam" "Rock Lobster" "Planet Claire" "Wig" 
+
+FUN FACT: The B-52s is an American new wave band formed in Athens, Georgia in 1976. The group evoked a 'thrift shop aesthetic' by drawing from 50s and 60s pop sources, trash culture and rock and roll.
+
+---
+
+/polly "How many people do you personally know whose first name is Joe ( or Jo, Joey, Josephine, etc)?" "7+" "5-6" "3-4" "1-2" "I don't know any Joes"
+
+FUN FACT: Today is NATIONAL JOE DAY. According to the Social Security Administration, the name Joseph was ranked No. 6 from 1893 to 1899 behind John, William, James, George, and Charles.
+
+---
+
+/polly "How likely are you to apply for the new Apple Credit Card?" "Definitely getting one!" "Probably" "Maybe" "Probably not" "Definitely not" "Never heard of it"
+
+---
+
+/polly "What alignment would you choose to play in a game of Dungeons and Dragons?" "Lawful Good" "Neutral Good" "Chaotic Good" "Lawful Neutral" "Chaotic Neutral" "Lawful Evil" "Neutral Evil" "Chaotic Evil"
+
+---
+
+/polly "Have you ever fallen for an April Fools trick?" "Yes, it happens every single year" "Once every few years" "Only once and never again!" "I have never been fooled!"
+
+---
+
+/polly "When eating a peanut butter & jelly sandwich, is the peanut butter side up or down?" "Peanut butter side up!" "Jelly side up!" "Either way is fine" "I'm allergic to sandwiches"
+
+FUN FACT: Today is NATIONAL PEANUT BUTTER AND JELLY DAY. In 1968, The J.M. Smucker Co. introduced Goober, a jarred product which combined alternating vertical stripes of peanut butter and jelly.
+
+---
+
+/polly "Who are your favorite Disney Princesses?" "Ariel" "Jasmine" "Belle" "Merida" "Cinderella" "Snow White" "Pocahontas" 
+
+---
+
+/polly "Who are your top favorite Game of Thrones characters?" "Jon Snow" "Tyrion Lannister" "Daenerys" "Cirsei" "Arya" "Sansa" "Jamie Lannister"
+
+---
+
+/polly "What must-have items do you ask for when ordering a Burrito?" "Rice" "Whole Beans" "Refried Beans"  "Guacamole" "Sour Cream" "Salsa" "Hot Sauce" "Cheese"
+
+FUN FACT: Today is NATIONAL BURRITO DAY. The term 'burrito' is used in the Guanajuato region and means 'little donkey' in Spanish.  Chimichangas are burritos that have been deep fried.
+
