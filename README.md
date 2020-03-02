@@ -1,5 +1,5 @@
 # Polls
-A collection of daily polls
+### A collection of daily polls
 
 
 /polly “What kind of pizza do you order most?” “Cheese” “Veggie” “Pepperoni” “Hawaiian” “Sausage” “Hamburger” “All the toppings!”
