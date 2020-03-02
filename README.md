@@ -6,6 +6,7 @@
 
 FUN FACT: Frank Pepe’ Pizzeria in New Haven created the White Clam Pizza during the 1960, which is considered one if it’s most popular dishes.
 
+---
 
 /polly “You’ve run off to join the circus! They provide excellent training so whichever job you pick they guarantee you’ll do it well. Which job do you choose?” “Trapeze artist” “Lion Tamer” “Human Cannonball” “Clown” ”Ringmaster” “Knife thrower” “Fire breathing”
 
