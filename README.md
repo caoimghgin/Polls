@@ -23,6 +23,8 @@ FUN FACT: Frank Pepe’ Pizzeria in New Haven created the White Clam Pizza durin
 
 /polly “Are you a good cook?” “Excellent!” “Pretty good” “I’m OK” “Not so good” “I’d burn the house down”
 
+---
+
 /polly “Which TV shows based on a book have you seen?” “Good Omens” “American Gods” “Game of Thrones” “The Handmaid’s Tale” “Outlander” “Dexter” “True Blood” “Orange Is the New Black” “Hannibal” “House of Cards”
 
 ---
